@@ -1,4 +1,4 @@
-MinazZz:test1
-brokenheart:test1
-xsslltrzxc:test1
-xstrzxc:n1
+MinazZz:n1
+brokenheart:n1
+xsslltrzxc:n1
+xstrzxc:dev
